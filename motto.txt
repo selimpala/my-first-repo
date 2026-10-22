@@ -1,1 +1,1 @@
-Our lab motto: small commits, clear messages, and never push on a Friday.
+Our lab motto: commit early, commit often.
